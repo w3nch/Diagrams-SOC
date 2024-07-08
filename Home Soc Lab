@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2024-07-08T09:39:49.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m870vKePE9HNuIh8to47" version="24.6.4" type="github">
+  <diagram name="Page-1" id="XJm1Jg5XgNQE3ZNA9otj">
+    <mxGraphModel dx="1034" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nFrtU6kI3qij6jy05olc-1" value="Windows 10 x64&amp;nbsp; Client&lt;div&gt;&amp;nbsp;Wazu&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="nFrtU6kI3qij6jy05olc-3" value="Router" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" vertex="1" parent="1">
+          <mxGeometry x="414" y="270" width="60.27" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nFrtU6kI3qij6jy05olc-4" value="Internet" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="120" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="nFrtU6kI3qij6jy05olc-5" value="Internet" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="nFrtU6kI3qij6jy05olc-6" value="Wazuh manager" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="nFrtU6kI3qij6jy05olc-7" value="Internet" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="-10" width="69" height="72" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
